@@ -1,0 +1,30 @@
+
+
+body {
+    font-size: large;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgba(157, 174, 228, 0.664);
+}
+
+footer {
+    font-size: small;
+    color: gray;
+    margin-bottom: 5%;
+}
+
+.item input {
+    width: 100%;
+}
+
+.heading, .discount-total, .payable-total {
+    font-size: large;
+    font-weight: bold;
+}
+.samrat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 14rem;
+    width: 20rem;
+    margin-left: 9rem;
+}
